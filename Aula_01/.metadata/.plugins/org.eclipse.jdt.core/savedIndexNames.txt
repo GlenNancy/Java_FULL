@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+A:\3DS\PW3\Aula_01\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+592736297.index
+279464321.index
+2169928834.index

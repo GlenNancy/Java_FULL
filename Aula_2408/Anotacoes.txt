@@ -1,0 +1,13 @@
+Aula dia 24/08/2023
+
+						Aprendizados
+
+- Estatico devolve só uma informação (static)
+
+- mostrar explodindo na tela (public void)
+
+- mostrar tendo uma logica "fazendo conta etc" (public double) //retornar o resultado com tipo double
+
+					  JOPTION COM TRANSFORMAÇÃO
+
+nome.setPeso(Double.parseDouble(JOptionPane.showInputDialog("Digite o peso: ")));

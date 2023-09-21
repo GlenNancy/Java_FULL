@@ -1,0 +1,66 @@
+- PW3 - Professor | Rafael 
+
+URL: A:\3DS\PW3\Aula_01
+
+• Criar Projeto • 
+
+FILE -> NEW -> OTHER -> (escreva) java project -> Next -> NomeDoProjeto -> Finish -> Nega Tudo
+
+• Achar Projeto • 
+
+WINDOW -> SHOW VIEW-> OTHER -> ProjectExplorer
+
+• Criar Classe • 
+
+-SRC -> BOTÃO DIREITO -> NEW -> CLASS
+-Packge (nome do pacote): br.com.horacio.teste -> Name: Teste ->...
+ public static void main(String[] args)
+
+• Rodar Projeto • 
+
+Play (verde) -> seta do lado (v) -> Run As -> Clique
+
+• Atalhos • 
+
+Atalho para exibição: sysou + Ctrl + Espaço
+
+Atalho para padronização de linha: Ctrl + Shift + f
+
+• Importando •
+
+FILE -> IMPORT -> GENERAL (Geral) -> EXISTING PROJECTS INTO WORKSPACE -> NEXT -> BROWSE
+	ACHE O CAMINHO -> FINISH
+
+//doble não arredonda (1233.3333333)
+//float até a 3 casa ele mostra igual, na 4 pra cima arredonda (1233.3334)
+
+System.out.println("Uma coisa " + variavel + " Outra coisa"); //Concatena variavel e string
+
+Exemplo de interação: 
+
+String nomeAluno = JOptionPane.showInputDialog("Digite seu nome");
+
+CASO ERRO?:
+
+Import que não importa sozinho -> import javax.swing.JOptionPane;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aluno.setNome(JOptionPane.showInputDialog("Digite o nome do Aluno: "));
+
+
+
+
+

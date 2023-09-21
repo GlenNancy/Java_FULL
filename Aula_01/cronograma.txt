@@ -1,0 +1,31 @@
+|	  Cronograma          |
+
+	@ AGOSTO @
+
+• Foco JAVA (fortemente tipada)
+
+• IDE Eclipse
+
+• Sintaxe
+ 
+• POO (Programação orientada a objetos)
+
+	@ SETEMBRO @
+
+• POO (Programação orientada a objetos)
+
+	@ OUTUBRO @
+
+• BACK-END
+
+• FRONT-END
+
+
+	@ NOVEMBRO @
+
+• BD?
+
+
+	@ DEZEMBRO @
+
+• SLA?
