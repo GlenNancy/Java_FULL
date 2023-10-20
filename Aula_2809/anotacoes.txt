@@ -1,0 +1,30 @@
+sql developer
+
+/*PERGUNTAS PARA VC FAZER?*/
+
+qaul meu usuario
+qual minha senha
+qual meu banco de dados
+qual conecxão com meu banco
+
+
+/*ATALHOS*/
+
+IMPORT = ctrl + shift + o
+
+/*AULA*/
+
+Fechar conexao é um método
+
+			*
+				arquivo jar que tem essas configurações
+			*
+
+
+
+					COMO COLOCAR O CARRINHO
+
+
+1) Criar uma pasta chamada (conector [opcional]) no projeto
+2) Arrastar o conector em cima da pasta criada
+3) agora botao direito no projeto, build path -> configure build path
